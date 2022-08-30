@@ -1,0 +1,15 @@
+{
+  "name": "img-downloader",
+  "version": "1.0.0",
+  "description": "url image downloader",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
